@@ -3,3 +3,7 @@ obj/
 .dotnet/
 .vs/
 *.log
+*.user
+*.rsuser
+*.suo
+.env
